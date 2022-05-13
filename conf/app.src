@@ -1,7 +1,7 @@
-SOURCE_URL=url of app's source
-SOURCE_SUM=sha256 checksum
+SOURCE_URL=https://github.com/flextype/flextype/releases/download/v0.9.16/flextype-cms-0.9.16.zip
+SOURCE_SUM=5015186c31ecdbbf3150ab0a651f4820d5b82c56d3c56ff5a6fa1a8c1eaeb978
 SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=tar.gz
-SOURCE_IN_SUBDIR=true
+SOURCE_FORMAT=zip
+SOURCE_IN_SUBDIR=false
 SOURCE_FILENAME=
 SOURCE_EXTRACT=true
