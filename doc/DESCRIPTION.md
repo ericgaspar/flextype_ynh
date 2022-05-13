@@ -1,9 +1,5 @@
-Some long and extensive description of what the app is and does, lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Flextype is an open-source Hybrid Content Management System with the freedom of a headless CMS and with the full functionality of a traditional CMS. Building this Content Management System, we focused on simplicity. To achieve this, we implemented a simple but powerful API's.
 
-### Features
+With Flextype, you are in complete control. Design your data structure the way you want. Update and share your data with others and teams using version control. Flextype does not require MySQL database, because all the data are collected in a simple files. Perfect portability when changing your hosting provider. Just copy all the files from one server to another.
 
-- Ut enim ad minim veniam, quis nostrud exercitation ullamco ;
-- Laboris nisi ut aliquip ex ea commodo consequat ;
-- Duis aute irure dolor in reprehenderit in voluptate ;
-- Velit esse cillum dolore eu fugiat nulla pariatur ;
-- Excepteur sint occaecat cupidatat non proident, sunt in culpa."
+The underlying architecture of Flextype is built using well established and best-in-class technologies. This is to ensure that Flextype is simple to use and easy to extend.
