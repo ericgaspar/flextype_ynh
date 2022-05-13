@@ -3,22 +3,22 @@
     "id": "flextype",
     "packaging_format": 1,
     "description": {
-        "en": "Explain in *a few (10~15) words* the purpose of the app or what it actually does (it is meant to give a rough idea to users browsing a catalog of 100+ apps)",
-        "fr": "Expliquez en *quelques* (10~15) mots l'utilité de l'app ou ce qu'elle fait (l'objectif est de donner une idée grossière pour des utilisateurs qui naviguent dans un catalogue de 100+ apps)"
+        "en": "Hybrid Content Management System with the freedom of a headless CMS and with the full functionality of a traditional CMS",
+        "fr": "Système de gestion de contenu hybride avec la liberté d'un CMS sans tête et avec toutes les fonctionnalités d'un CMS traditionnel"
     },
     "version": "0.9.16~ynh1",
     "url": "https://awilum.github.io/flextype/",
     "upstream": {
-        "license": "free",
+        "license": "MIT",
         "website": "https://awilum.github.io/flextype/",
         "demo": "https://demo.example.com",
         "admindoc": "https://awilum.github.io/flextype/documentation/",
         "code": "https://github.com/flextype/flextype"
     },
-    "license": "free",
+    "license": "MIT",
     "maintainer": {
-        "name": "John doe",
-        "email": "john.doe@example.com"
+        "name": "",
+        "email": ""
     },
     "requirements": {
         "yunohost": ">= 4.3.0"
